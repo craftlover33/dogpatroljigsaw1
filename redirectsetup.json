@@ -1,7 +1,7 @@
 {
-   "isRedirect": false,
+   "isRedirect": true,
    "message": "Hai there is new update for this app please download!",
-   "redirectUrl": "-",
+   "redirectUrl": "com.gimlovco.dogpatrolcoloring",
    
    "moreApp": [
 		{
